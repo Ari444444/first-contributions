@@ -210,6 +210,7 @@
 - [Vadlamani Uday](https://github.com/vadlamaniuday)
 - [LC Charity](https://github.com/kylechrty)
 - [Regan Kalvelage](https://github.com/rkalvelage)
+- [Aric Richards](https://github.com/Ari444444)
 - [Naima Ontiveros](https://github.com/no26829)
 - [Praveen Toppo](https://github.com/silver919)
 - [Nathan Chan](https://github.com/nkc53)
